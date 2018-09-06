@@ -17,7 +17,7 @@ title: IT 노트
 author: Jin
 description: "My IT blog."
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stj9439.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: ko
 timezone: UTC
 exclude:
